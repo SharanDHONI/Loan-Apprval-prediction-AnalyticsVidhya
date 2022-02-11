@@ -18,3 +18,5 @@ I will be constantly updating this repo to improve the score! :)
 
 ![image](https://user-images.githubusercontent.com/20862520/153546808-218d69ce-4d6c-4b1f-9d3f-5ef22f036e82.png)
 
+For more indepth understanding : https://www.analyticsvidhya.com/blog/2022/02/loan-approval-prediction-machine-learning/
+
